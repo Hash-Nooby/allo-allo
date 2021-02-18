@@ -1,0 +1,60 @@
+Information importante : 
+
+Nos carte pour utilisée cette méthode sont dans la base "CC_SPAM_HQ"
+
+Les cartes venant du SPAM ( envoie massif de mail / SMS qui usurpe un site connu pour demander les coordonnées bancaires), sont parfaite pour utiliser notre méthode vue que les personnes qui remplissent ce genre d'email/sms est naïfs et la plupart connaissent rien au milieu bancaire.
+
+Le taut de réussite est de 70-80% pour les CC issue de notre base "CC_SPAM_HQ" (Ceci explique nos prix haha).
+
+
+La méthode : 
+
+Étape 1 : 
+Acheter un SPOOFER ( outils qui permettent d'usurper un numéro de téléphone ), il y a beaucoup de site qui propose ce service par exemple : https://www.spoofmyphone.com/ qui fonctionne très bien ( sur PC ou TEL)
+le site marche par rechargement de crédit donc recharger du crédit pour pouvoir utiliser le spoofer (paiement via BTC ou PAYPAL).
+
+Étape 2 : 
+Rendez-Vous sur http:/pp2card.com/ acheter une CC de la base "CC_SPAM_HQ" quand vous allez acheter la carte il y aura les informations suivantes :
+Nom,Prénom,Adresse,Date de naissance,Nom de la banque,Source du SPAM. 
+Quand vous avez toute ces informations en premier temps rendez-vous sur google et tapait le nom de la banque + la ville de la victime pour trouver le numéro de téléphone d'une agence dans la ville de la victime
+
+Exemple :
+[img]https://zupimages.net/up/20/51/3pwj.png[/img]
+
+Quand vous avez le numéro de l'agence dans la ville de la victime vous êtes prêt à passer l'appel.
+
+Étape 3 : 
+Allez sur le spoofer mettez le numéro que vous voulez usurper ( celui de la banque) et le numéro que vous voulez appeler ( celui de la victime)
+
+Le texte de l'appel :
+
+Escros : Oui allo bonjour, Nicolas Vergnault au groupe antifraud de la BNP PARIBAS (banque de la victime).
+
+On vos appels suite à un paiement qui aurait été tentée depuis l'Angleterre avec votre carte finissant par 1839 (Les 4 dernier chiffre de la carte de la victime)
+
+Vérifier que vous avez toujours votre carte sur vous est qu'elle n'a pas été volée !
+
+VICTIME :( elle va dire qu'elle là toujours sur elle)
+
+Escros : D'accord dans ce cas la il s'agit surement d'une fraude en ligne 90% des fraudes en ligne est du a de faux mail qui vous êtes envoyée on appelle son le PHISHING !
+Réssament à la BNP on a reçu beaucoup de plainte concernant un mail de Paypal qui demande de re entrée s'est coordonné bancaire avez vous recus ce genre de mail ?
+
+VICTIME : ( elle vous dira qu'elle a bien recus un mail de paypal qui lui demandée c'est coordonné de carte banquaire )
+
+ESCROS : Daccord , donc faut savoir que ce mail ne vous a pas été envoyée par paypal mais par des escros qui usurpe paypal pour volée les numéros de carte des client paypal ! 
+donc ce qu'on va faire dans l'imédiat c'est que votre carte finissant par 1839 va être mis en oposition pour les paiement en ligne, vous pourez toujour éffectuer des paiement en phisique est des retrait au distributeur le temps de l'envoie de votre nouvelle carte .
+
+VICTIME : ( d'accord ) 
+
+ESCROS : Restée en ligne je vais montée le dossiée d'opposition pour le paiement de 780€ qui a été tentée sur le site marchand WESTERN UNION on va authentifiée est opposée le paiement . 
+
+VICTIME: ( d'accord ) 
+
+A ce moment la vous lui envoyée la 3D secure si c'est sur l'application dite : 
+
+ESCROS : Je viens de vous envoyer une notification sur l'application veuillez l'accepter pour qu'on puisse authentifier l'achat et faire le retour du fond instantée .
+
+si c'est par SMS demandée lui simplement la référence pour pouvoir Authentifiée l'achat .
+si la victime fait beaucoup d'achat est qu'elle et soucieuse n'est veut pas donner le code demandé lui de taper le numéro de téléphone sur google elle verra que vous êtes la banque.
+
+sa marche a 80% sur nos CC ! suffit de savoir s'exprimer est ne pas bégayée
