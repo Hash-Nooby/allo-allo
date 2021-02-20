@@ -1,12 +1,3 @@
-Information importante : 
-
-Nos carte pour utilisée cette méthode sont dans la base "CC_SPAM_HQ"
-
-Les cartes venant du SPAM ( envoie massif de mail / SMS qui usurpe un site connu pour demander les coordonnées bancaires), sont parfaite pour utiliser notre méthode vue que les personnes qui remplissent ce genre d'email/sms est naïfs et la plupart connaissent rien au milieu bancaire.
-
-Le taut de réussite est de 70-80% pour les CC issue de notre base "CC_SPAM_HQ" (Ceci explique nos prix haha).
-
-
 La méthode : 
 
 Étape 1 : 
